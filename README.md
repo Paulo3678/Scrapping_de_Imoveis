@@ -23,6 +23,15 @@
 
 <hr>
 
+<h6>Tecnologias utilizadas</h6>
+
+<ul>
+    <li><strong>Laravel</strong></li>
+    <li><strong>HttpBrowser e HttpClient (para coleta de dados)</strong></li>
+    <li><strong>Doctrine (para futuros dados salvos👀)</strong></li>
+</ul>
+
+<hr>
 <p>
     <strong>
         Obs: Por ser apenas uma beta, o site pode 
